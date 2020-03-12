@@ -1,0 +1,29 @@
+.title {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.statistics {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    width: 350px;
+    margin-bottom: 40px;
+}
+
+.statisticsList {
+    width: 350px;
+    list-style: none;
+    display: flex;
+    margin: 0 auto;
+}
+
+.item {
+    width: 100px;
+    height: 54px;
+    font-size: 15px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
